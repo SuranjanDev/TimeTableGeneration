@@ -1,0 +1,1200 @@
+Maths-1
+Maths-1
+Physics-1
+Physics-1
+Chemistry
+Chemistry
+Chemistry
+EM
+EM
+PSP
+PSP
+Maths-1
+Maths-1
+Physics-1
+Physics-1
+Chemistry
+Chemistry
+Chemistry
+EM
+EM
+PSP
+PSP
+Maths-1
+Maths-1
+Physics-1
+Physics-1
+Chemistry
+Chemistry
+Chemistry
+EM
+EM
+PSP
+PSP
+Maths-1
+Maths-1
+Physics-1
+Physics-1
+Chemistry
+Chemistry
+Chemistry
+EM
+EM
+PSP
+PSP
+Maths-1
+Maths-1
+Physics-1
+Physics-1
+Chemistry
+Chemistry
+Chemistry
+EM
+EM
+PSP
+PSP
+Maths-3
+MSE
+MSE
+MP
+MP
+SS
+SS
+DS
+DS
+Maths-3
+MSE
+MSE
+MP
+MP
+Strength of Materials
+Strength of Materials
+FM
+FM
+Maths-3
+MSE
+MSE
+MP
+MP
+Strength of Materials
+Strength of Materials
+FM
+FM
+Elements of Surveying
+Elements of Surveying
+Maths-3
+MSE
+MSE
+MP
+MP
+Circuit Theory
+Circuit Theory
+SS
+SS
+DS
+DS
+Maths-3
+MSE
+MSE
+MP
+MP
+Circuit Theory
+Circuit Theory
+SS
+SS
+DS
+DS
+Software Engineering
+Algorithms
+Algorithms
+TOC
+Networks
+Networks
+Major Elective-1 CSE
+Major Elective-1 CSE
+Thermodynamics
+Thermodynamics
+PTIE
+PTIE
+Heat & Mass Transfer
+Heat & Mass Transfer
+Dynamics of Machines
+Dynamics of Machines
+Structural Analysis - II
+Geotechnical Engineering
+Geotechnical Engineering
+Water Resource Engineering
+Electromagnetic Engineering
+Control Systems
+Control Systems
+Microprocessors & Microcontrollers
+Major Elective-1 ECE
+Electromagnetic Engineering
+Control Systems
+Control Systems
+Microprocessors & Microcontrollers
+Major Elective-3 CSE
+Major-Elective-4 CSE
+Major Elective-3 MECH
+Major Elective-4 MECH
+I.C Engines & Automobiles
+I.C Engines & Automobiles
+Major Elective-3 CIVIL
+Major Elective-4 CIVIL
+Design of Steel Structures
+Major Elective-3 ECE
+Major Elective-4 ECE
+VLSI Technology & Design
+Major Elective-3 EE
+Major Elective-4 EE
+Electric Drives
+Niteesh Sahni
+Snehal Lata
+Samrendra Pratap Singh
+Samrendra Pratap Singh
+Dr. ABC
+Dr. ABC
+Dr. ABC
+Dipankar Roy
+Dipankar Roy
+Niteesh Sahni
+Niteesh Sahni
+Ved Prakash
+Ved Prakash
+Samrendra Pratap Singh
+Samrendra Pratap Singh
+Sonali Bhandari
+Sonali Bhandari
+Sonali Bhandari
+Oinam
+Oinam
+Rajeev Kumar Singh
+Rajeev Kumar Singh
+Snehal Lata
+Snehal Lata
+Vaibahav Srivastava
+Vaibhav Srivatava
+Sonali Bhandari
+Sonali Bhandari
+Sonali Bhandari
+Oinam
+Oinam
+Rajeev Kumar Singh
+Rajeev Kumar Singh
+Charu Sharma
+Charu Sharma
+Vaibahav Srivastava
+Vaibhav Srivatava
+Sonali Bhandari
+Sonali Bhandari
+Sonali Bhandari
+Dipankar Roy
+Dipankar Roy
+Muneendra Ojha
+Muneendra Ojha
+Charu Sharma
+Charu Sharma
+Vaibahav Srivastava
+Vaibhav Srivatava
+Sonali Bhandari
+Sonali Bhandari
+Sonali Bhandari
+Dipankar Roy
+Dipankar Roy
+Muneendra Ojha
+Muneendra Ojha
+Ajit Kumar
+Sovan Kumar Panda
+Sovan Kumar Panda
+Nishant Mishra
+Nishant Mishra
+Sandeep Joshi
+Sandeep Joshi
+Rajeev Kumar Singh
+Rajeev Kumar Singh
+Satyanarayana Reddy
+Sovan Kumar Panda
+Sovan Kumar Panda
+Nishant Mishra
+Nishant Mishra
+Mahesh Mughle
+Mahesh Mughle
+Vikas Parida
+Gopal Das
+Satyanarayana Reddy
+Sovan Kumar Panda
+Sovan Kumar Panda
+Nishant Mishra
+Nishant Mishra
+Mahesh Mughle
+Mahesh Mughle
+Gopal Das
+Gopal Das
+Oinam
+Vikas Parida
+Ajit Kumar
+Deepak Maity
+Deepak Maity
+Nishant Mishra
+Nishant Mishra
+Gyan Ranjan Biswal
+Gyan Ranjan Biswal
+Ashutosh Trivedi
+Ashutosh Trivedi
+Richa Sharma
+Richa Sharma
+Satyanarayana Reddy
+Deepak Maity
+Deepak Maity
+Nishant Mishra
+Nishant Mishra
+Gyan Ranjan Biswal
+Gyan Ranjan Biswal
+Ashutosh Trivedi
+Ashutosh Trivedi
+Richa Sharma
+Richa Sharma
+Richa Sharma
+Debopam Acharya
+Debopam Acharya
+Shashi Prabh
+Debopam Acharya
+Debopam Acharya
+Dr Jay
+Dr.Jay
+Shantanu Mishra
+Shantanu Mishra
+Shiv Sankar Murugan
+Shiv Sankar Murugan
+Nithin Banker
+Nithin Bankar
+Ramesh Gupta
+Ramesh Gupta
+Mahesh Mughle
+Gyan Vikas
+Gyan Vikas
+Dipankar Roy
+Sitangshu Bhattacharya
+Gyan Ranjan Biswal
+Gyan Ranjan Biswal
+Ashutosh Dwivedi
+Sandeep Joshi
+Sitangshu Bhattacharya
+Gyan Ranjan Biswal
+Gyan Ranjan Biswal
+Ashutosh Dwivedi
+Dr Jay
+Shashi Prabh
+Shantanu Mishra
+Divya Srivastava
+Harendra Singh
+Harendra Singh
+Gyan Vikas
+Dipankar Roy
+Jagopadya Dixit
+Atul Vir Singh
+Dr. CDE
+Naveen Babu
+Dinkar Prasad
+Gyan Ranjan Biswal
+Naveen Babu
+3
+1
+3
+1
+3
+1
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+1
+3
+1
+3
+1
+3
+1
+3
+1
+3
+1
+1
+3
+1
+3
+1
+3
+3
+1
+1
+2
+3
+1
+3
+1
+3
+3
+1
+1
+2
+3
+1
+3
+1
+3
+3
+1
+1
+2
+3
+1
+3
+1
+3
+1
+3
+3
+1
+1
+2
+3
+1
+3
+1
+3
+1
+3
+3
+1
+1
+2
+3
+1
+3
+1
+3
+1
+3
+3
+1
+3
+3
+1
+3
+1
+2
+1
+3
+1
+3
+1
+3
+1
+3
+3
+1
+3
+3
+3
+1
+3
+3
+3
+3
+1
+3
+3
+3
+3
+3
+3
+1
+3
+3
+3
+3
+3
+3
+3
+3
+3
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+ELEC
+ELEC
+ELEC
+ELEC
+CC
+CC
+CC
+CC
+CC
+ELEC
+ELEC
+ELEC
+ELEC
+CC
+CC
+CC
+CC
+CC
+ELEC
+ELEC
+ELEC
+ELEC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+CC
+ELEC
+ELEC
+ELEC
+ELEC
+CC
+CC
+CC
+CC
+CC
+ELEC
+ELEC
+ELEC
+ELEC
+ELEC
+ELEC
+CC
+CC
+CC
+CC
+CC
+CC
+ELEC
+ELEC
+CC
+CC
+CC
+CC
+ELEC
+ELEC
+ELEC
+ELEC
+CC
+ELEC
+ELEC
+CC
+CC
+CC
+CC
+CC
+ELEC
+CC
+CC
+CC
+CC
+ELEC
+ELEC
+ELEC
+ELEC
+CC
+CC
+CC
+CC
+CC
+ELEC
+ELEC
+CC
+ELEC
+ELEC
+CC
+L
+T
+L
+T
+L
+T
+P
+L
+T
+L
+P
+L
+T
+L
+T
+L
+T
+P
+L
+T
+L
+P
+L
+T
+L
+T
+L
+T
+P
+L
+T
+L
+P
+L
+T
+L
+T
+L
+T
+P
+L
+T
+L
+P
+L
+T
+L
+T
+L
+T
+P
+L
+T
+L
+P
+L
+L
+P
+L
+P
+L
+T
+L
+P
+L
+L
+T
+L
+P
+L
+P
+L
+P
+L
+L
+P
+L
+P
+L
+P
+L
+P
+L
+P
+L
+L
+T
+L
+P
+L
+T
+L
+T
+L
+P
+L
+L
+T
+L
+P
+L
+T
+L
+T
+L
+P
+L
+L
+P
+L
+L
+P
+L
+P
+L
+T
+L
+P
+L
+P
+L
+P
+L
+L
+P
+L
+L
+L
+T
+L
+L
+L
+L
+T
+L
+L
+L
+L
+L
+L
+P
+L
+L
+L
+L
+L
+L
+L
+L
+L
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+ECE
+ECE
+ECE
+ECE
+ECE
+ECE
+ECE
+ECE
+ECE
+ECE
+ECE
+EE
+EE
+EE
+EE
+EE
+EE
+EE
+EE
+EE
+EE
+EE
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+ECE
+ECE
+ECE
+ECE
+ECE
+ECE
+ECE
+ECE
+ECE
+ECE
+ECE
+EE
+EE
+EE
+EE
+EE
+EE
+EE
+EE
+EE
+EE
+EE
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+CSE
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+MECH
+CIVIL
+CIVIL
+CIVIL
+CIVIL
+ECE
+ECE
+ECE
+ECE
+ECE
+EE
+EE
+EE
+EE
+CSE
+CSE
+MECH
+MECH
+MECH
+MECH
+CIVIL
+CIVIL
+CIVIL
+ECE
+ECE
+ECE
+EE
+EE
+EE
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+1
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+2
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+3
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+4
+60
+60
+60
+60
+60
+60
+60
+150
+150
+60
+60
+60
+60
+60
+60
+60
+60
+60
+120
+120
+60
+60
+60
+60
+60
+60
+60
+60
+60
+120
+120
+60
+60
+60
+60
+60
+60
+60
+60
+60
+150
+150
+60
+60
+60
+60
+60
+60
+60
+60
+60
+150
+150
+60
+60
+120
+60
+60
+60
+60
+60
+60
+60
+60
+150
+60
+60
+60
+60
+60
+60
+60
+60
+150
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+120
+60
+60
+60
+60
+120
+120
+60
+60
+60
+60
+120
+60
+60
+60
+60
+120
+120
+60
+60
+60
+60
+120
+120
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+120
+120
+120
+120
+60
+120
+120
+120
+120
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
+60
